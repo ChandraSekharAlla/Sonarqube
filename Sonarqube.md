@@ -7,10 +7,10 @@ Steps to set up Sonarqube Server
 #Enable port 9000 in the respective security group/instance
 
 #Install Java 17 as the root user
-       # /n Step_1: sudo -i #Changing as root user
+       # Step_1: sudo -i #Changing as root user
        # Step_2: Download the Java 17 rpm using the below command
               wget https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.rpm
-      Step_3: rpm -i jdk-17_linux-x64_bin.rpm
+         Step_3: rpm -i jdk-17_linux-x64_bin.rpm
 
 
 Download Sonarqube from the below URL into /opt folder.
