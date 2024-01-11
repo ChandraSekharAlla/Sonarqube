@@ -1,4 +1,5 @@
-Steps to set up Sonarqube Server :
+Steps to set up Sonarqube Server
+--------------------------------
 
 Create AWS Ec2 instance(Instance type must be >= t2.small) and login using ec2-user
 
