@@ -2,7 +2,7 @@ Steps to set up Sonarqube Server
 --------------------------------
 
 
-# Create AWS Ec2 instance(Instance type must be >= t2.small) and login using ec2-user
+#Create AWS Ec2 instance(Instance type must be >= t2.small) and login using ec2-user
 
 
 # Enable port 9000 in the respective security group/instance
