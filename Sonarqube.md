@@ -4,11 +4,9 @@ Steps to set up Sonarqube Server
 
 #Create AWS Ec2 instance(Instance type must be >= t2.small) and login using ec2-user
 
+#Enable port 9000 in the respective security group/instance
 
-# Enable port 9000 in the respective security group/instance
-
-
-# Install Java 17 as the root user
+#Install Java 17 as the root user
        # Step_1: sudo -i #Changing as root user
        # Step_2: Download the Java 17 rpm using the below command
               wget https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.rpm
