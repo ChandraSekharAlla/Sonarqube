@@ -4,7 +4,7 @@ and security vulnerabilities. This tutorial will guide you through the steps to 
 A fresh Ubuntu 22.04 dedicated server
 A user with sudo privileges
 Java 11 or 17 installed (SonarQube requires a specific version of Java)
-For this tutorial, we have used cloud server with the configuration of 2vCPU, 4GB RAM, 80GB SSD. It should have at least 2GB of RAM 1 CPU core and 8-30 GB free space.
+For this tutorial, we have used cloud server with the configuration of 2 vCPU, 4 GB RAM, 8 GB SSD. It should have at least 2GB of RAM 1 CPU core and 8-30 GB free space.
 
 Step 1: Update the System
 First, ensure your system is up-to-date:
